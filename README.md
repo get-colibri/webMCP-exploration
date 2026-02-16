@@ -5,6 +5,10 @@ This project showcases how AI agents can safely make changes to application stat
 📺 Check out the [Loom](https://www.loom.com/share/c0e34ef13fa940b4a1c7464ef1405398) to see the features in action
 heißt ich muss erst einen change machen? 
 Warum speicjert du ncihts? 
+## OK und 
+
+## 
+
 ## Features
 
 - **Multi-Agent Sandboxing**: Each AI agent works in an isolated Git branch
